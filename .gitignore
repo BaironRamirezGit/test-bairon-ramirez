@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Build files
+dist/
+.next/
+out/
+.cache/
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Docker
+docker-compose.override.yml
+docker-compose*.log
+
+# Ignorar archivos de entorno específicos (pero permitir .env)
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*
+
+# Permitir .env principal
+!.env
