@@ -11,8 +11,8 @@ Este proyecto utiliza **NestJS** para el backend, **Next.js** para el frontend y
 ## 🚀 Instalación y ejecución
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/BaironRamirezGit/test-bairon-ramirez.git
+cd test-bairon-ramirez
 ```
 
 ### 2️⃣ Levantar los servicios con Docker Compose
@@ -40,5 +40,3 @@ Este proyecto está bajo la licencia **MIT**.
 
 ---
 **By [BAIRON STIVEN RAMIREZ MARÍN](https://github.com/tu-usuario)** 🚀
-
->>>>>>> decdd2e (Primer add)
